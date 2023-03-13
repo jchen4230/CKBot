@@ -28,7 +28,8 @@ responses = {"devious": "<:devious:1003987786384285768>",
 names = ["josh", "bruce", "ryan", "joey", "eva", "shannon", "ppie", "fifi", "kenzo", "tlgeotau", "wobo", "punda", "anthea",
          "blake", "penguin", "lachlan", "zaeema", "diya", "livia", "sabina", "ed", "numor", "dante", "knightsy",
          "alvin", "kelvin", "peanut", "clam", "calvin", "sam", "cedric", "dlegend", "jason", "tristan", "kim", "weekly",
-         "natisv", "simon", "jack", "elliot", "skelly", "edwin", "andy", "harris"]
+         "natisv", "simon", "jack", "elliot", "skelly", "edwin", "andy", "harris", "rae", "raecat", "adam", "maria", "cwibdy",
+         "andy", "flanders", "toby", "thyme", "jacob", "helen", "francis"]
 
 with open('.token', 'r') as f:
     TOKEN = f.read()
